@@ -22,6 +22,10 @@ const DUMMY_LIST = [
     id: "t4",
     text: "Buy Coffee",
   },
+  {
+    id: "t5",
+    text: "Go to school",
+  },
 ];
 
 function App() {
